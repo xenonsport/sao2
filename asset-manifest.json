@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3301f529.css",
+    "main.js": "/static/js/main.46ae6111.js",
+    "static/media/YellowMagician.woff": "/static/media/YellowMagician.81fad6c4a4e981b69a46.woff",
+    "static/media/YellowMagician.woff2": "/static/media/YellowMagician.63802baff61f420d6c9d.woff2",
+    "static/media/nav-menu-bg.png": "/static/media/nav-menu-bg.1da41155e031e69134ab.png",
+    "index.html": "/index.html",
+    "main.3301f529.css.map": "/static/css/main.3301f529.css.map",
+    "main.46ae6111.js.map": "/static/js/main.46ae6111.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3301f529.css",
+    "static/js/main.46ae6111.js"
+  ]
+}
